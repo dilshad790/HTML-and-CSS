@@ -1,0 +1,3 @@
+###Challenge 1
+
+Created three separate divs and put them all on the same line with inline-block. We then used float to put both div 2 and div 3 on the right side, then added a margin-left to div 3 to separate them.
