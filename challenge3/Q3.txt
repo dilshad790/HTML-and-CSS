@@ -1,0 +1,3 @@
+###Challenge 3
+
+we placed div 2 inside of div 1 in the html to have div 1 be the container. then we used margin: auto to center div 1, then we used margin - auto to center div 2 in the middle of div 1, then used margin-top to move div 2 down because 25% of the size is the right amount to place in the middle.
