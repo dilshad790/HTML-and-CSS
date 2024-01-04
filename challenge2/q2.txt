@@ -1,0 +1,3 @@
+###Challenge 2
+
+all three divs are in their own block, all we had to do was add float: right to div 3 and margin: auto to div 2 to center it.
